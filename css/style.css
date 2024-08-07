@@ -1,0 +1,1193 @@
+/* google font */
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+/* ---------------- External fonts fonts ------------------ */
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Regular.woff") format("woff"),
+    url("../fonts/CeraPro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Thin.woff") format("woff"),
+    url("../fonts/CeraPro-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-MediumItalic.woff") format("woff"),
+    url("../fonts/CeraPro-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Thin_1.woff") format("woff"),
+    url("../fonts/CeraPro-Thin_1.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Regular_1.woff") format("woff"),
+    url("../fonts/CeraPro-Regular_1.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-ThinItalic.woff") format("woff"),
+    url("../fonts/CeraPro-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Black.woff") format("woff"),
+    url("../fonts/CeraPro-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-BlackItalic.woff") format("woff"),
+    url("../fonts/CeraPro-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-ThinItalic_1.woff") format("woff"),
+    url("../fonts/CeraPro-ThinItalic_1.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Black_1.woff") format("woff"),
+    url("../fonts/CeraPro-Black_1.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-BlackItalic_1.woff") format("woff"),
+    url("../fonts/CeraPro-BlackItalic_1.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-BoldItalic.woff") format("woff"),
+    url("../fonts/CeraPro-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-BoldItalic_1.woff") format("woff"),
+    url("../fonts/CeraPro-BoldItalic_1.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Italic.woff") format("woff"),
+    url("../fonts/CeraPro-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Bold.woff") format("woff"),
+    url("../fonts/CeraPro-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Italic_1.woff") format("woff"),
+    url("../fonts/CeraPro-Italic_1.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Bold_1.woff") format("woff"),
+    url("../fonts/CeraPro-Bold_1.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Medium.woff") format("woff"),
+    url("../fonts/CeraPro-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Light.woff") format("woff"),
+    url("../fonts/CeraPro-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-LightItalic.woff") format("woff"),
+    url("../fonts/CeraPro-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-LightItalic_1.woff") format("woff"),
+    url("../fonts/CeraPro-LightItalic_1.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Light_1.woff") format("woff"),
+    url("../fonts/CeraPro-Light_1.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-Medium_1.woff") format("woff"),
+    url("../fonts/CeraPro-Medium_1.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Cera Pro";
+  src: url("../fonts/CeraPro-MediumItalic_1.woff") format("woff"),
+    url("../fonts/CeraPro-MediumItalic_1.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SHREDER";
+  src: url("../fonts/SHREDER.woff") format("woff"),
+    url("../fonts/SHREDER.ttf") format("truetype");
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SHREDER";
+  src: url("../fonts/SHREDER_1.woff") format("woff"),
+    url("../fonts/SHREDER_1.ttf") format("truetype");
+  font-weight: normal;
+  font-display: swap;
+}
+
+/* ---------------- Basic css ------------------ */
+html {
+  font-size: 62.5%;
+}
+
+:root {
+  scroll-behavior: unset;
+
+  --boxShadow: 0 0 2.5rem 0.1rem rgba(0, 0, 0, 0.15);
+
+  --imgWhite: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%)
+    hue-rotate(325deg) brightness(105%) contrast(101%);
+  --imgBlack: brightness(0) saturate(100%) invert(0%) sepia(1%) saturate(6932%)
+    hue-rotate(346deg) brightness(100%) contrast(99%);
+
+  --white: #ffffff;
+  --Black: #000000;
+  --green: #93a87d;
+  --Black50: rgb(0, 0, 0, 0.5);
+
+  --Cera: "Cera Pro", sans-serif;
+  --shreder: "SHREDER";
+  --inter: "Inter", sans-serif;
+
+  --menuheight: 7.8rem;
+}
+
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+strong,
+i,
+ol,
+ul,
+li,
+form,
+label,
+footer,
+header,
+menu,
+nav,
+section {
+  margin: 0;
+  padding: 0;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none !important;
+  transition: 200ms;
+  color: inherit;
+  display: block;
+}
+
+a:hover {
+  color: inherit;
+}
+
+button {
+  background: transparent;
+  border: none;
+  outline: none;
+}
+
+button:focus,
+a:focus,
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+.container {
+  padding: 0;
+}
+
+.border_top {
+  border-top: 0.1rem solid #dfdcd1 !important;
+}
+.border_bottom {
+  border-bottom: 0.1rem solid #dfdcd1 !important;
+}
+
+main {
+  margin-top: var(--menuheight);
+  overflow-x: hidden;
+}
+
+/* body */
+body {
+  background: #090908;
+  font-family: var(--Cera);
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.45;
+  color: #ffffffb2;
+}
+
+/* Title */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-style: normal;
+}
+
+h2 {
+  font-family: var(--Cera);
+  font-size: 8rem;
+  font-weight: 500;
+  line-height: 8rem;
+  letter-spacing: 0.04em;
+}
+
+h3 {
+  font-family: var(--shreder);
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 4.113rem;
+  letter-spacing: 0.04em;
+}
+
+h4 {
+  font-family: var(--Cera);
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 3.017rem;
+  letter-spacing: 0.04em;
+}
+
+.text_2xl {
+  font-size: 3.2rem;
+  line-height: 1.4;
+}
+
+.text_1xl {
+  font-size: 2.4rem;
+  line-height: 1.4;
+}
+
+.text_xl {
+  font-size: 2rem;
+  line-height: 1.4;
+}
+
+.text_lg {
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+.text_md {
+  font-size: 1.6rem;
+  line-height: 1.66;
+}
+
+.text_sm {
+  font-size: 1.4rem;
+  line-height: 2.88;
+}
+
+/* rounds */
+.round0 {
+  border-radius: 0 !important;
+}
+.round4 {
+  border-radius: 0.4rem !important;
+}
+.round6 {
+  border-radius: 0.6rem !important;
+}
+.round8 {
+  border-radius: 0.8rem !important;
+}
+
+/* fonts */
+.shreder {
+  font-family: var(--shreder) !important;
+}
+.cera {
+  font-family: var(--Cera) !important;
+}
+.inter {
+  font-family: var(--inter) !important;
+}
+
+/* icon sizes */
+.icon24 {
+  width: 2.4rem;
+}
+.icon20 {
+  width: 2rem;
+}
+.icon10 {
+  width: 1rem !important;
+}
+.icon15 {
+  width: 1.5rem;
+}
+.icon14 {
+  width: 1.4rem;
+}
+.icon12 {
+  width: 1.2rem;
+}
+.icon16 {
+  width: 1.6rem;
+}
+.icon18 {
+  width: 1.8rem;
+}
+.icon28 {
+  width: 2.8rem;
+}
+.icon22 {
+  width: 2.2rem;
+}
+.icon27 {
+  width: 2.7rem;
+}
+.icon25 {
+  width: 2.5rem;
+}
+.icon26 {
+  width: 2.6rem;
+}
+.icon30 {
+  width: 3rem;
+}
+.icon32 {
+  width: 3.2rem;
+}
+.icon35 {
+  width: 3.5rem;
+}
+.icon38 {
+  width: 3.8rem;
+}
+.icon45 {
+  width: 4.5rem;
+}
+.icon50 {
+  width: 5rem;
+}
+
+/* Font Weights */
+.f_300 {
+  font-weight: 300 !important;
+}
+.f_400 {
+  font-weight: 400 !important;
+}
+.f_500 {
+  font-weight: 500 !important;
+}
+.f_600 {
+  font-weight: 600 !important;
+}
+.f_700 {
+  font-weight: 700 !important;
+}
+.f_800 {
+  font-weight: 800 !important;
+}
+.f_900 {
+  font-weight: 900 !important;
+}
+
+/* Button */
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 4.2rem;
+  background: #9956f4;
+  color: #fff;
+  font-family: var(--Inter) !important;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.69rem;
+  transition: 0.25s;
+  border-radius: 0.8rem;
+  text-decoration: none;
+  border: 0.1rem solid #9956f4;
+  padding: 0 1.6rem;
+  border-radius: 100rem;
+}
+
+.h64 {
+  height: 6.4rem !important;
+}
+
+.button:hover {
+  border-color: transparent;
+  color: #9956f4;
+  background: #fff;
+}
+
+/* -------------- preloader --------------- */
+#preloader {
+  position: fixed;
+  background: #212120;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 99999999;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader3 {
+  width: 5rem;
+  height: 5rem;
+  display: inline-block;
+  padding: 0;
+  text-align: left;
+}
+
+.loader3 span {
+  position: absolute;
+  display: inline-block;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 100%;
+  background: #9956f4;
+  animation: loader3 1.5s linear infinite;
+}
+
+.loader3 span:last-child {
+  animation-delay: -0.9s;
+  -webkit-animation-delay: -0.9s;
+}
+
+@keyframes loader3 {
+  0% {
+    transform: scale(0, 0);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(1, 1);
+    opacity: 0;
+  }
+}
+
+/* ============ back_to_top =========== */
+.back-to-top {
+  width: 4.5rem;
+  height: 4.5rem;
+  background: #9956f4;
+  border-radius: 10rem;
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  opacity: 0;
+  z-index: 999;
+}
+
+.back-to-top:hover {
+  background: var(--white);
+}
+
+.back-to-top:hover img {
+  filter: brightness(0) saturate(100%) invert(44%) sepia(25%) saturate(6957%)
+    hue-rotate(240deg) brightness(95%) contrast(102%);
+}
+
+.back-to-top img {
+  width: 2rem;
+}
+
+.topbtn_hide {
+  opacity: 1;
+  pointer-events: all;
+}
+
+/* ---------------- Header ------------------ */
+.site_header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1024;
+  width: 100%;
+  height: var(--menuheight);
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 0.6rem 0 #0000001f;
+  transition: 0.25s ease;
+}
+
+.site_header.menu_scrolled {
+  background: #000000;
+}
+
+.menu_text1 {
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  padding-right: 1.2rem;
+  color: #ffffff99;
+}
+
+.menu_text2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5rem;
+  letter-spacing: 0.01em;
+  color: #f5de9d;
+  padding-left: 0.8rem;
+}
+
+.primary_menu {
+  gap: 3.2rem;
+}
+
+.menu_border {
+  height: 2.5rem;
+  width: 0.1rem;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0) 0%,
+    rgba(217, 217, 217, 0.165) 16.5%,
+    #d9d9d9 100%
+  );
+}
+
+.menu_link:hover .menu_text1 {
+  color: #fff;
+}
+
+.menu_sm.active .menu_text1 {
+  color: #fff;
+}
+
+/* ================ Hero Section ================ */
+.hero_area {
+  padding-top: 6rem;
+  padding-bottom: 4.5rem;
+}
+
+.content h1 {
+  font-size: 6.3rem;
+  font-family: var(--shreder);
+  font-weight: 400;
+  line-height: 3;
+  color: #fff;
+  z-index: 1;
+}
+
+.hero_text_lg_part1 {
+  padding-left: 15rem;
+}
+
+.hero_img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 53rem;
+}
+
+.hero_img.cat_character {
+  width: 38rem;
+}
+
+.video_icon img {
+  width: 1.8rem;
+}
+
+.video_icon {
+  background: var(--white);
+  width: 5.4rem;
+  height: 5.4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10rem;
+}
+
+.video_btn {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  height: 6.4rem;
+  padding: 0 0.4rem 0 2.4rem;
+  border-radius: 10rem;
+  width: fit-content;
+  border: 0.2rem solid #ffffff33;
+  position: relative;
+  overflow: hidden;
+  color: #fff;
+  z-index: 1;
+}
+
+.video_btn_inner {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.btn_bg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  filter: brightness(0.49);
+  transition: 0.25s ease;
+  left: 0;
+  top: 0;
+}
+
+.video_btn:hover .btn_bg {
+  filter: brightness(0.8);
+}
+
+.timer {
+  display: flex;
+  gap: 2.4rem;
+  align-items: center;
+}
+
+.time_box {
+  width: 15.4rem;
+  height: 15.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1.2rem;
+  background: url(../img/timer_circle.png) no-repeat scroll top left / 100% 100%;
+}
+
+.time_box h3 {
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+.time_box p {
+  color: #ffffff99;
+  font-size: 1.2rem;
+}
+
+.hero_bottom {
+  position: relative;
+  padding-top: 15rem;
+}
+
+.social_media_icons {
+  gap: 2.4rem;
+}
+
+.hero_bottom:before {
+  background: linear-gradient(
+    180deg,
+    rgba(9, 9, 8, 0) 0%,
+    #090908 65%,
+    #090908 100%
+  );
+  width: 100vw;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 50rem;
+  content: "";
+  position: absolute;
+  bottom: -4.5rem;
+  pointer-events: none;
+}
+
+.timer,
+.hero_bottom_right {
+  position: relative;
+}
+
+/* hero v2 */
+.hero_area_v2 .home_hero_bg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.49;
+}
+
+.hero_area_v2 h1 {
+  font-size: 9.8rem;
+}
+
+.hero_area_v2 h1 > * {
+  padding: 0;
+}
+
+.hero_texts {
+  z-index: 1;
+  color: #ffffff99;
+}
+
+.hero_area_v2 .video_btn {
+  margin: 0;
+  margin-left: 8rem;
+}
+
+/* ================ Crazy price ================= */
+.crazy_price {
+  padding-top: 13.8rem;
+  padding-bottom: 12.8rem;
+}
+
+.time_box_v2 {
+  width: auto;
+  height: auto;
+  background: transparent;
+  flex-direction: row;
+  gap: 1.2rem;
+  align-items: end !important;
+}
+
+.crazy_top {
+  padding-bottom: 7.5rem;
+}
+
+.crazy_top p {
+  text-align: end;
+}
+
+.progrss span {
+  width: 25.3rem;
+  background: #f5de9d;
+  border-radius: 10rem;
+  height: 100%;
+  display: block;
+}
+
+.progrss {
+  background: #1d1d1c;
+  width: 100%;
+  height: 0.8rem;
+  border-radius: 10rem;
+}
+
+.price_mid p {
+  white-space: nowrap;
+  color: #ffffff99;
+}
+
+.price_data_top p {
+  color: #ffffff99;
+}
+
+.price_mid {
+  gap: 2.4rem;
+}
+
+.price_data {
+  padding: 1.6rem;
+  background: #212120;
+  height: 15.3rem;
+  display: grid;
+  align-content: space-between;
+}
+
+.price_increse_row {
+  margin-right: -0.6rem;
+  margin-left: -0.6rem;
+}
+
+.price_increse_row > * {
+  padding: 0 0.6rem;
+}
+
+.price_data_top {
+  gap: 1.2rem;
+}
+
+.price_data:hover p,
+.price_data.highlighted p {
+  color: #f5de9d !important;
+}
+
+.price_data:hover,
+.price_data.highlighted {
+  background: #201f19 !important;
+}
+
+.price_data:hover img,
+.price_data.highlighted img {
+  filter: brightness(0) saturate(100%) invert(91%) sepia(19%) saturate(811%)
+    hue-rotate(339deg) brightness(102%) contrast(92%);
+}
+
+.price_increse h4 {
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.price_data_top img {
+  filter: brightness(0) saturate(100%) invert(55%) sepia(5%) saturate(48%)
+    hue-rotate(22deg) brightness(96%) contrast(87%);
+}
+
+.price_data > p {
+  font-weight: 700;
+}
+
+.crazy_price_content {
+  padding: 4.8rem;
+}
+
+.nav-link > div {
+  gap: 0.8rem;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link {
+  background: transparent !important;
+  border: none !important;
+  height: 5.3rem;
+  width: 100%;
+  padding: 0;
+  color: #fff !important;
+  position: relative;
+  border-bottom: 0.1rem solid #40403f !important;
+  font-size: 1.4rem;
+  font-weight: 500;
+  position: relative;
+}
+
+.nav-link.active {
+  font-weight: 600;
+}
+
+.nav-item {
+  width: 50%;
+}
+
+.nav-link:before {
+  background: linear-gradient(
+    0deg,
+    rgba(153, 86, 244, 0.21) 0%,
+    rgba(153, 86, 244, 0) 100%
+  );
+  height: 100%;
+  width: 100%;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.25s ease;
+}
+
+.nav-tabs {
+  border: 0;
+}
+
+.nav-link.active {
+  border-color: #9956f4 !important;
+}
+
+.nav-link.active:before {
+  opacity: 1;
+}
+
+.form_group > input {
+  height: 4rem;
+  background: transparent;
+  border: none;
+  padding: 1rem 1.7rem;
+}
+
+.form_icon {
+  height: 4rem;
+  width: 4.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-right: 0.1rem solid #ffffff33;
+}
+
+.form_group {
+  display: flex;
+  align-items: center;
+  border: 0.1rem solid #ffffff33;
+  border-radius: 10rem;
+  height: 5.6rem;
+}
+
+.form_group > input,
+.form_group > input::placeholder {
+  color: #ffffff99;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+.form_wrap > p {
+  color: #ffffffb2;
+  font-size: 1.4rem;
+  padding-top: 0.8rem;
+  font-weight: 400;
+}
+
+.crazy_tab .tab-pane > form {
+  margin: 4.8rem;
+}
+
+.form_icon img,
+.nav-link img {
+  filter: brightness(0) saturate(100%) invert(55%) sepia(5%) saturate(48%)
+    hue-rotate(22deg) brightness(96%) contrast(87%);
+}
+
+.nav-link.active img {
+  filter: brightness(0) saturate(100%) invert(41%) sepia(62%) saturate(3534%)
+    hue-rotate(242deg) brightness(96%) contrast(98%);
+}
+
+form .button {
+  font-size: 1.6rem;
+}
+
+.time_box_v2 p {
+  font-size: 1.2rem;
+  transform: translateY(0.5rem);
+}
+
+.nav-tabs .nav-link {
+  background: #262625 !important;
+}
+
+.crazy_top h2 {
+  text-transform: uppercase;
+  font-size: 6.4rem;
+  line-height: 110%;
+}
+
+/* ====== newly added ====== */
+.row.crazy_prices_row1 > * {
+  padding: 0;
+}
+
+.row.crazy_prices_row1 {
+  margin: 0;
+}
+
+/* ============ Ring area =========== */
+.ring_area {
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+.ring_area .container-fluid {
+  padding: 0 3rem;
+}
+
+.marquee {
+  display: flex;
+  gap: 3rem;
+  transform: rotate(-6deg);
+}
+
+.marquee h1 {
+  white-space: nowrap;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: #fff;
+  font-size: 2.15vw;
+  text-transform: uppercase;
+}
+
+.js-marquee {
+  display: flex;
+}
+
+.marquee > * {
+  display: flex;
+  gap: 2rem;
+}
+
+.fight_ring_img {
+  width: 100%;
+  height: 100%;
+}
+
+.marquee {
+  display: block;
+  width: calc(100% - 5rem);
+  position: absolute;
+  top: 51.5%;
+  z-index: -1;
+  left: 2.5rem;
+}
+
+.marquee_wrap2 .marquee {
+  z-index: 1;
+  top: 51%;
+}
+
+/* ============ hero bg area ============*/
+.hero_area {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+.video-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -1;
+  opacity: 0.25;
+  object-fit: cover;
+}
+.video-foreground iframe {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 100vw; /* 100 * 16/9 aspect ratio */
+  height: 100vh;
+  transform: translateX(-50%);
+  pointer-events: none; /* Ensure the video does not interfere with user interactions */
+  object-fit: cover;
+}
+.container {
+  position: relative;
+  z-index: 1;
+}
+
+/* =========== timer_wrap ========= */
+.timer_wrap p {
+  padding-top: 1.2rem;
+  font-size: 1.2rem;
+  color: #ffffff99;
+  text-align: center;
+}
